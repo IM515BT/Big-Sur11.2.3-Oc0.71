@@ -1,4 +1,4 @@
-# Big-Sur11.2.3-Oc0.71
+# Big-Sur11.2.3-Oc0.71   Lenovo legion Y520 HD630 1050TI
 
 1、WiFi（有显示但没有用）和蓝牙不可用
 2、长时间熄屏造成卡屏
